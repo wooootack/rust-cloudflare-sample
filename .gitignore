@@ -1,0 +1,7 @@
+/target/
+/build/
+/dist/
+**/*.rs.bk
+wasm-pack.log
+.dev.vars
+node_modules
